@@ -1,0 +1,29 @@
+#include "Scripts\000\01-00.txt"
+#include "Scripts\000\01-01.txt"
+#include "Scripts\000\01-03.txt"
+
+#include "Scripts\000\02-00.txt"
+#include "Scripts\000\02-01.txt"
+#include "Scripts\000\02-03.txt"
+
+#include "Scripts\000\03-00.txt"
+#include "Scripts\000\03-01.txt"
+#include "Scripts\000\03-03.txt"
+
+#include "Scripts\000\04-00.txt"
+#include "Scripts\000\04-01.txt"
+#include "Scripts\000\04-03.txt"
+
+#include "Scripts\000\05-00.txt"
+#include "Scripts\000\05-01.txt"
+#include "Scripts\000\05-03.txt"
+
+#include "Scripts\000\06-00.txt"
+#include "Scripts\000\06-01.txt"
+#include "Scripts\000\06-03.txt"
+#include "Scripts\000\06-05.txt"
+#include "Scripts\000\06-07.txt"
+#include "Scripts\000\06-09.txt"
+#include "Scripts\000\06-12.txt"
+#include "Scripts\000\06-14.txt"
+#include "Scripts\000\06-17.txt"
