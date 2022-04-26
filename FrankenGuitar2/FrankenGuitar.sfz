@@ -1,0 +1,56 @@
+<control>
+default_path=Samples\
+
+set_cc1=0
+set_cc2=63
+
+
+<global>
+volume=1
+
+ampeg_attack=0.005
+ampeg_attackcc22=-0.03
+ampeg_attackcc1=-0.01
+ampeg_release=0.4
+ampeg_dynamic=1
+
+lfo01_pitch_oncc1=35
+lfo01_freq=2
+lfo01_freq_oncc2=8
+lfo01_delay=0.2
+lfo01_fade=0.2
+
+pitch_random=15
+
+<master>
+group=1
+
+<group> //Begin Group 1
+group_label=gr_1
+#include "samples\01E\01E00.txt"
+#include "samples\01E\01E01.txt"
+#include "samples\01E\01E03.txt"
+
+#include "samples\02A\02A00.txt"
+#include "samples\02A\02A01.txt"
+#include "samples\02A\02A03.txt"
+
+#include "samples\03D\03D00.txt"
+#include "samples\03D\03D01.txt"
+#include "samples\03D\03D03.txt"
+
+#include "samples\04G\04G00.txt"
+#include "samples\04G\04G01.txt"
+#include "samples\04G\04G03.txt"
+
+#include "samples\05B\05B00.txt"
+#include "samples\05B\05B01.txt"
+#include "samples\05B\05B03.txt"
+
+#include "samples\06E\06E00.txt"
+#include "samples\06E\06E01.txt"
+#include "samples\06E\06E03.txt"
+#include "samples\06E\06E05.txt"
+#include "samples\06E\06E07.txt"
+#include "samples\06E\06E09.txt"
+#include "samples\06E\06E12.txt"

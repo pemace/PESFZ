@@ -1,0 +1,52 @@
+//Do#
+//Première séquence
+<region>
+sample=/01E/09/01.wav
+lokey=37
+hikey=39
+pitch_keycenter=37
+hirand=0.33
+seq_length=2 seq_position=1
+
+<region>
+sample=/01E/09/02.wav
+lokey=37
+hikey=39
+pitch_keycenter=37
+lorand=0.33
+hirand=0.66
+seq_length=2 seq_position=1
+
+<region>
+sample=/01E/09/03.wav
+lokey=37
+hikey=39
+pitch_keycenter=37
+lorand=0.66
+seq_length=2 seq_position=1
+
+//2e séquence
+<region>
+sample=/01E/09/04.wav
+lokey=37
+hikey=39
+pitch_keycenter=37
+hirand=0.33
+seq_length=2 seq_position=2
+
+<region>
+sample=/01E/09/05.wav
+lokey=37
+hikey=39
+pitch_keycenter=37
+lorand=0.33
+hirand=0.66
+seq_length=2 seq_position=2
+
+<region>
+sample=/01E/09/05.wav
+lokey=37
+hikey=39
+pitch_keycenter=37
+lorand=0.66
+seq_length=2 seq_position=2

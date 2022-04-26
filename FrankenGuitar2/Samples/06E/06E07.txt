@@ -1,0 +1,70 @@
+//Si
+//Première séquence
+<region>
+sample=/06E/07/sample.wav
+lokey=59
+hikey=60
+pitch_keycenter=59
+hirand=0.25
+seq_length=2 seq_position=1
+
+<region>
+sample=/06E/07/sample-001.wav
+lokey=59
+hikey=60
+pitch_keycenter=59
+lorand=0.25
+hirand=0.50
+seq_length=2 seq_position=1
+
+<region>
+sample=/06E/07/sample-002.wav
+lokey=59
+hikey=60
+pitch_keycenter=59
+lorand=0.50
+hirand=0.75
+seq_length=2 seq_position=1
+
+<region>
+sample=/06E/07/sample-003.wav
+lokey=59
+hikey=60
+pitch_keycenter=59
+lorand=0.75
+seq_length=2 seq_position=1
+
+//2e séquence
+<region>
+sample=/06E/07/sample-004.wav
+lokey=59
+hikey=60
+pitch_keycenter=59
+hirand=0.25
+seq_length=2 seq_position=2
+
+<region>
+sample=/06E/07/sample-007.wav
+lokey=59
+hikey=60
+pitch_keycenter=59
+lorand=0.25
+hirand=0.50
+seq_length=2 seq_position=2
+
+<region>
+sample=/06E/07/sample-006.wav
+lokey=59
+hikey=60
+pitch_keycenter=59
+lorand=0.50
+hirand=0.75
+seq_length=2 seq_position=2
+
+<region>
+sample=/06E/07/sample-007.wav
+lokey=59
+hikey=60
+pitch_keycenter=59
+lorand=0.75
+seq_length=2 seq_position=2

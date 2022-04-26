@@ -1,0 +1,70 @@
+//Sol
+//Première séquence
+<region>
+sample=/01E/03/01.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+hirand=0.25
+seq_length=2 seq_position=1
+
+<region>
+sample=/01E/03/02.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lorand=0.25
+hirand=0.50
+seq_length=2 seq_position=1
+
+<region>
+sample=/01E/03/03.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lorand=0.50
+hirand=0.75
+seq_length=2 seq_position=1
+
+<region>
+sample=/01E/03/04.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lorand=0.75
+seq_length=2 seq_position=1
+
+//2e séquence
+<region>
+sample=/01E/03/05.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+hirand=0.25
+seq_length=2 seq_position=2
+
+<region>
+sample=/01E/03/06.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lorand=0.25
+hirand=0.50
+seq_length=2 seq_position=2
+
+<region>
+sample=/01E/03/07.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lorand=0.50
+hirand=0.75
+seq_length=2 seq_position=2
+
+<region>
+sample=/01E/03/07.wav
+lokey=31
+hikey=32
+pitch_keycenter=31
+lorand=0.75
+seq_length=2 seq_position=2

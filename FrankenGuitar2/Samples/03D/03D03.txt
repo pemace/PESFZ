@@ -1,0 +1,70 @@
+//Fa
+//Première séquence
+<region>
+sample=/03D/03/sample.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+hirand=0.25
+seq_length=2 seq_position=1
+
+<region>
+sample=/03D/03/sample-001.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lorand=0.25
+hirand=0.50
+seq_length=2 seq_position=1
+
+<region>
+sample=/03D/03/sample-002.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lorand=0.50
+hirand=0.75
+seq_length=2 seq_position=1
+
+<region>
+sample=/03D/03/sample-003.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lorand=0.75
+seq_length=2 seq_position=1
+
+//2e séquence
+<region>
+sample=/03D/03/sample-004.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+hirand=0.25
+seq_length=2 seq_position=2
+
+<region>
+sample=/03D/03/sample-005.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lorand=0.25
+hirand=0.50
+seq_length=2 seq_position=2
+
+<region>
+sample=/03D/03/sample-006.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lorand=0.50
+hirand=0.75
+seq_length=2 seq_position=2
+
+<region>
+sample=/03D/03/sample-007.wav
+lokey=41
+hikey=42
+pitch_keycenter=41
+lorand=0.75
+seq_length=2 seq_position=2

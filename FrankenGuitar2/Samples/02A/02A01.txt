@@ -1,0 +1,70 @@
+//La#
+//Première séquence
+<region>
+sample=/02A/01/01.wav
+lokey=34
+hikey=35
+pitch_keycenter=34
+hirand=0.25
+seq_length=2 seq_position=1
+
+<region>
+sample=/02A/01/02.wav
+lokey=34
+hikey=35
+pitch_keycenter=34
+lorand=0.25
+hirand=0.50
+seq_length=2 seq_position=1
+
+<region>
+sample=/02A/01/03.wav
+lokey=34
+hikey=35
+pitch_keycenter=34
+lorand=0.50
+hirand=0.75
+seq_length=2 seq_position=1
+
+<region>
+sample=/02A/01/04.wav
+lokey=34
+hikey=35
+pitch_keycenter=34
+lorand=0.75
+seq_length=2 seq_position=1
+
+//2e séquence
+<region>
+sample=/02A/01/06.wav
+lokey=34
+hikey=35
+pitch_keycenter=34
+hirand=0.25
+seq_length=2 seq_position=2
+
+<region>
+sample=/02A/01/06.wav
+lokey=34
+hikey=35
+pitch_keycenter=34
+lorand=0.25
+hirand=0.50
+seq_length=2 seq_position=2
+
+<region>
+sample=/02A/01/07.wav
+lokey=34
+hikey=35
+pitch_keycenter=34
+lorand=0.50
+hirand=0.75
+seq_length=2 seq_position=2
+
+<region>
+sample=/02A/01/08.wav
+lokey=34
+hikey=35
+pitch_keycenter=34
+lorand=0.75
+seq_length=2 seq_position=2

@@ -1,0 +1,52 @@
+//Mi (corde à vide)
+//Première séquence
+<region>
+sample=/02A/00/01.wav
+lokey=33
+hikey=33
+pitch_keycenter=33
+hirand=0.33
+seq_length=2 seq_position=1
+
+<region>
+sample=/02A/00/02.wav
+lokey=33
+hikey=33
+pitch_keycenter=33
+lorand=0.33
+hirand=0.66
+seq_length=2 seq_position=1
+
+<region>
+sample=/02A/00/03.wav
+lokey=33
+hikey=33
+pitch_keycenter=33
+lorand=0.66
+seq_length=2 seq_position=1
+
+//2e séquence
+<region>
+sample=/02A/00/04.wav
+lokey=33
+hikey=33
+pitch_keycenter=33
+hirand=0.33
+seq_length=2 seq_position=2
+
+<region>
+sample=/02A/00/05.wav
+lokey=33
+hikey=33
+pitch_keycenter=33
+lorand=0.33
+hirand=0.66
+seq_length=2 seq_position=2
+
+<region>
+sample=/02A/00/05.wav
+lokey=33
+hikey=33
+pitch_keycenter=33
+lorand=0.66
+seq_length=2 seq_position=2
