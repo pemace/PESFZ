@@ -9,6 +9,7 @@ Cordialement,
 Pierre-Emmanuel Macé
 
 
+
 TODO
 - Redécouper les samples de la FrankenGuitar2
 - Réenregistrer le FrankenCello
