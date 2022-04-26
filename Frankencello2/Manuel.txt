@@ -1,0 +1,5 @@
+CC 1 - Intensité du vibrato
+CC 11 - Expression
+CC 20 - Vitesse du legato
+CC 21 - Fréquence du vibrato
+CC 22 - Force de l'attaque

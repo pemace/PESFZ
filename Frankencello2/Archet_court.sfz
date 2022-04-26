@@ -1,0 +1,57 @@
+<control>
+default_path=Samples\
+
+set_cc1=90
+set_cc11=63
+set_cc20=63
+set_cc21=63
+set_cc22=0
+
+
+ 
+<global>
+ampeg_release=0.11
+ampeg_release_oncc20=-0.11  
+ampeg_dynamic=1
+volume=1
+off_mode=normal
+off_time=0 
+loop_mode=loop_sustain
+ampeg_delay=0.1
+ampeg_delay_oncc20=-0.11 
+ampeg_vel2delay=-0.1   
+
+amp_veltrack=0
+amplitude_oncc11=50
+
+lfo01_pitch_oncc1=35
+lfo01_freq=2
+lfo01_freq_oncc21=8
+lfo01_delay=0.3
+lfo01_fade=0.1
+
+
+
+pitch_random=10
+
+<master>trigger=first
+group=1
+off_by=2
+ampeg_attack=0.3
+ampeg_attackcc22=-0.3
+
+<group> //Begin Group 1
+group_label=gr_1
+#include "Archet_court.txt"
+
+
+<master>trigger=legato
+ampeg_attack=0.2
+ampeg_attackcc22=-0.2
+group=2
+off_by=2
+
+<group> //Begin Group 1
+group_label=gr_2
+
+#include "Archet_court.txt"
