@@ -33,3 +33,4 @@ sw_lokey=23 sw_hikey=36 sw_default=23
 #include "Scripts\00\base.txt"
 #include "Scripts\01\base.txt"
 #include "Scripts\03\base.txt"
+#include "Scripts\05\base.txt"
