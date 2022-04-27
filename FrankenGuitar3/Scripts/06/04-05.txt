@@ -1,15 +1,15 @@
 //-------------------------------------------------------------------
 <region>
 sample=/04/05/sample-002.wav
-lokey=60
+lokey=61
 hikey=61
-pitch_keycenter=60s
+pitch_keycenter=60
 hirand=0.25
 seq_length=2 seq_position=1
 
 <region>
 sample=/04/05/sample-002.wav
-lokey=60
+lokey=61
 hikey=61
 pitch_keycenter=60
 lorand=0.25
@@ -18,7 +18,7 @@ seq_length=2 seq_position=1
 
 <region>
 sample=/04/05/sample-003.wav
-lokey=60
+lokey=61
 hikey=61
 pitch_keycenter=60
 lorand=0.5
@@ -27,7 +27,7 @@ seq_length=2 seq_position=1
 
 <region>
 sample=/04/05/sample-004.wav
-lokey=60
+lokey=61
 hikey=61
 pitch_keycenter=60
 lorand=0.75
@@ -37,7 +37,7 @@ seq_length=2 seq_position=1
 //-------------------------------------------------------------------
 <region>
 sample=/04/05/sample-005.wav
-lokey=60
+lokey=61
 hikey=61
 pitch_keycenter=60
 hirand=0.25
@@ -45,7 +45,7 @@ seq_length=2 seq_position=2
 
 <region>
 sample=/04/05/sample-006.wav
-lokey=60
+lokey=61
 hikey=61
 pitch_keycenter=60
 lorand=0.25
@@ -54,7 +54,7 @@ seq_length=2 seq_position=2
 
 <region>
 sample=/04/05/sample-007.wav
-lokey=60
+lokey=61
 hikey=61
 pitch_keycenter=60
 lorand=0.5
@@ -63,7 +63,7 @@ seq_length=2 seq_position=2
 
 <region>
 sample=/04/05/sample-008.wav
-lokey=60
+lokey=61
 hikey=61
 pitch_keycenter=60
 lorand=0.75
