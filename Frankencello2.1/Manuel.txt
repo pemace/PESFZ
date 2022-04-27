@@ -1,0 +1,4 @@
+CC 1 - Intensité du vibrato
+CC 2 - Fréquence du vibrato
+
+CC 11 - Expression

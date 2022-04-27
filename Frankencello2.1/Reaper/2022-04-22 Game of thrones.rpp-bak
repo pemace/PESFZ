@@ -1,0 +1,411 @@
+<REAPER_PROJECT 0.1 "6.54/win64" 1650677812
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 100 874 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 105 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 18.28571428571428
+  SELECTION2 0 18.28571428571428
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {777BA781-91C2-4BCF-8B7C-7601D45C8A05}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {83E557D9-6B2B-4632-AD36-8DF07B5DB085}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {AC4F3DE7-3DE6-4D0A-A0E4-60AF0A33BACC}
+    NAME sforzando
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 1
+    REC 1 5088 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AC4F3DE7-3DE6-4D0A-A0E4-60AF0A33BACC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 308 30 895 599
+      SHOW 0
+      LASTSEL 2
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3i: sforzando (Plogue Art et Technologie, Inc)" sforzando.vst3 0 "" 395535903{5C5CA79682FC437AB6539BA204BAB349} ""
+        H2aTF+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAAcAgAAAQAAAP//EAA=
+        DAIAAAEAAAAAAAAABAIAAENFR1CXBQAAeJyNlE2PmzAQhu+V+h8s3zfgQNi4gq7SZLfiEO1K7F56qQxxUmuNnWKDtv31HZzwcWgEXMK8fjzjeYMnfvgoJWp4ZYRWCSYL
+        H6OHr58/xZtKsIw1fLRG7wlG50of6sKmOxB8EmJgETxxxq0V6mTQ75pJYf/AMkbGVpyVICc4WGJUso/MKRspdbH/luAVAXmf7tLn2u71gbtdrLa6ZBaKZlLbBPtjSfKG
+        ywQLBbnrkiuLkRQNv2wG0hSQdd3+MslAIegO8fZMC1PIq7yFbbxKcAT8SeqcyddauVOC4PUdQXEkDk5UrIT02y/emwE7vJett+Pm3eqzlz39QEcmrIHuhNHKe6qYeueq
+        4NAjaoIu3rbxwhz/YpSDkELeO+i1dxeKFL+YUm1z7cJZS/AwCjGyw9nO+U/IduJXxEJg3EI5etWFhf9tMCMCrbZOuLbm2tszobr2Gibri/fefxHSI/4tZDmNBNNIOI2s
+        ppFoGrmfRtbTCJ1GiD+DmeEvmWEwmeEwmWExue3xC6tYOfFNjBhy89saoOXIoQVdhRSedRAQP6J0dXvXqP5iTYBeUkoiQuF1VCv22mvcBY/HIy/s+GJ34+JywTdlLtqr
+        O9xRN+PGMzCkbgYW/cDpK31/S7usrLAwk9JhfLn4sY8Nl3AOfnhlee9M7HUjF4J/UAZ5CQAAAAAAAAAA
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {37CC49A2-82F4-46F7-9FD0-61C250882065}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAEAAAAAQAAAIB+i2M+OlRAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAEe2TMdfZ5NADRUd1RJk8z+A6SYxCKzwPwEIAAAAAQAAAN51UkkwbbZA5uqVdH8g
+        3z/YgJVDi2zvPwEDAAAAAQAAAAAcwp5Jhs5AAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAKllEvGGMWpAEKQMdbvd9T8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AP0BAABcAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E8434AD1-F3EE-4218-A85E-E11ECCCE55F5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MConvolutionEZ (MeldaProduction)" MConvolutionEZ.vst3 0 "" 862266665{4D656C646170726F4D43657A4D43657A} ""
+        KSVlM+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAigIAAAEAAAAAABAA
+        PQEAAAEAAAB42m2RW2vCQBCF3/0Vy/hazcV4KWQjNCoVDJVaFPq2JmNcOu7IZiPWX19IsLSlr3PmmzlzJp5eTyQuaCvNRkLQ90GgybnQppRQu0NvAtOkE2cpmwtT7TSb
+        +XuFzmlTVqIrIQDR/SEuNKGEZ0XkZVjo+iS2nCvqH0jlILoz+7lDJ8HvR9EERHenCzTNLr8fjkcgUjbOMhHaam7UnrCQ4IOYF9qx3egbShiPhw/RZARi9bo5k3YOGyGQ
+        MAyiv9VQQuhHIDJ1XS1enojzj3bKIASRoUNbpUykzhUWG4cWuTkpW86Wa8ulVaf0qEyJrZnGy5rqUps3Ztor+w1L6AUgfjGpcliy1Te0Dbi9x/w4GQyHISRxayBM4p0u
+        3DFL4g3XNkextnjQ5NC20YCXxN69xbtDndj79y1V0vkC8Aqbiz0BAAAAAAAAeNptkVtrwkAQhd/9Fcv4Ws3FeClkIzQqFQyVWhT6tiZjXDruyGYj1l9fSLC0pa9z5ps5
+        cyaeXk8kLmgrzUZC0PdBoMm50KaUULtDbwLTpBNnKZsLU+00m/l7hc5pU1aiKyEA0f0hLjShhGdF5GVY6Poktpwr6h9I5SC6M/u5QyfB70fRBER3pws0zS6/H45HIFI2
+        zjIR2mpu1J6wkOCDmBfasd3oG0oYj4cP0WQEYvW6OZN2DhshkDAMor/VUELoRyAydV0tXp6I8492yiAEkaFDW6VMpM4VFhuHFrk5KVvOlmvLpVWn9KhMia2Zxsua6lKb
+        N2baK/sNS+gFIH4xqXJYstU3tA24vcf8OBkMhyEkcWsgTOKdLtwxS+IN1zZHsbZ40OTQttGAl8TevcW7Q53Y+/ctVdL5AvAKm4s=
+        ADAAEAAAAA==
+      >
+      PRESETNAME 0
+      FLOATPOS 0 0 0 0
+      FXID {29F89DC4-697B-48D2-8FA8-B2229A5A97A2}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 18.28571428571428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {8924EBEE-0171-45A5-B5AE-3B7036E835DD}
+      IID 4
+      NAME "sforzando untitled MIDI item-glued"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3F93CDD-09D2-461C-85EA-1A3B17ECC08E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {951BFD85-3B93-47C4-A35D-4E0A548EDC63}
+        E 0 b0 01 00
+        ENV 5 2 0
+        E 0 b0 02 3e
+        ENV 5 2 0.0039
+        E 0 90 37 16
+        E 8 b0 0b 5e
+        ENV 5 2 0
+        E 670 b0 01 2c
+        ENV 5 2 0.2578
+        E 121 b0 0b 69
+        ENV 5 0 0
+        E 881 b0 01 28
+        ENV 5 2 0.0313
+        E 155 b0 0b 5e
+        ENV 5 0 0
+        E 84 b0 01 0c
+        ENV 5 2 -0.0547
+        E 1 b0 0b 4d
+        ENV 5 2 0
+        E 0 90 30 16
+        E 240 80 37 00
+        E 189 b0 02 36
+        ENV 5 0 0
+        E 203 b0 01 27
+        ENV 5 2 0.2422
+        E 95 b0 0b 56
+        ENV 5 0 0
+        E 513 b0 01 21
+        ENV 5 2 0.0156
+        E 177 b0 01 00
+        ENV 5 2 0
+        E 23 b0 0b 4d
+        ENV 5 0 0
+        E 0 90 33 7f
+        E 72 b0 0b 64
+        ENV 5 2 0
+        E 168 80 30 00
+        E 0 90 35 7f
+        E 240 b0 01 00
+        ENV 5 2 0
+        E 0 80 33 00
+        E 0 90 37 01
+        E 240 80 35 00
+        E 240 b0 01 2d
+        ENV 5 2 0.207
+        E 24 b0 0b 6d
+        ENV 5 0 0
+        E 1145 b0 02 48
+        ENV 5 0 0
+        E 31 b0 0b 64
+        ENV 5 0 0
+        E 96 b0 01 35
+        ENV 5 2 0.1328
+        E 144 b0 0b 4b
+        ENV 5 2 0
+        E 0 90 30 16
+        E 240 80 37 00
+        E 72 b0 01 1f
+        ENV 5 2 -0.0566
+        E 374 b0 0b 50
+        ENV 5 0 0
+        E 107 b0 01 31
+        ENV 5 2 0.1777
+        E 598 b0 0b 4b
+        ENV 5 0 0
+        E 49 90 35 7f
+        E 7 b0 0b 55
+        ENV 5 0 0
+        E 232 b0 01 33
+        ENV 5 0 0
+        E 1 80 30 00
+        E 0 90 33 7f
+        E 240 b0 02 3e
+        ENV 5 0 0
+        E 0 b0 0b 55
+        ENV 5 0 0
+        E 0 80 35 00
+        E 0 90 32 01
+        E 240 b0 01 00
+        ENV 5 0 0
+        E 0 b0 0b 71
+        ENV 5 2 0.0938
+        E 0 80 33 00
+        E 627 b0 0b 78
+        ENV 5 0 0
+        E 1000 b0 0b 78
+        ENV 5 2 0.0703
+        E 293 b0 01 55
+        ENV 5 2 0.2227
+        E 258 b0 02 49
+        ENV 5 0 0
+        E 602 b0 0b 68
+        ENV 5 2 -0.043
+        E 588 b0 01 3f
+        ENV 5 2 0.0293
+        E 627 b0 0b 67
+        ENV 5 0 0
+        E 133 b0 02 3b
+        ENV 5 0 0
+        E 1398 b0 0b 55
+        ENV 5 0 0
+        E 172 b0 02 46
+        ENV 5 0 0
+        E 782 b0 01 53
+        ENV 5 2 0.1582
+        E 0 80 32 00
+        E 810 b0 01 00
+        ENV 5 0 0
+        E 150 b0 0b 5e
+        ENV 5 2 0
+        E 0 b0 01 00
+        ENV 5 2 -0
+        E 0 90 35 16
+        E 678 b0 01 2c
+        ENV 5 2 0.2578
+        E 208 b0 0b 64
+        ENV 5 0 0
+        E 689 b0 02 3c
+        ENV 5 0 0
+        E 105 b0 01 28
+        ENV 5 2 0.0312
+        E 147 b0 0b 5e
+        ENV 5 0 0
+        E 85 b0 0b 4d
+        ENV 5 2 0
+        E 7 b0 01 0c
+        ENV 5 2 -0.0547
+        E 1 90 2e 16
+        E 240 80 35 00
+        E 392 b0 01 27
+        ENV 5 2 0.2422
+        E 131 b0 0b 54
+        ENV 5 0 0
+        E 477 b0 01 21
+        ENV 5 2 0.0156
+        E 177 b0 01 00
+        ENV 5 2 -0
+        E 15 b0 0b 4d
+        ENV 5 0 0
+        E 8 90 32 7f
+        E 64 b0 0b 64
+        ENV 5 2 0
+        E 176 80 2e 00
+        E 0 90 33 7f
+        E 240 b0 01 00
+        ENV 5 2 -0
+        E 0 80 32 00
+        E 0 90 35 01
+        E 116 b0 02 4b
+        ENV 5 0 0
+        E 124 80 33 00
+        E 240 b0 01 2d
+        ENV 5 2 0.207
+        E 9 b0 0b 69
+        ENV 5 0 0
+        E 1183 b0 0b 64
+        ENV 5 0 0
+        E 104 b0 01 35
+        ENV 5 2 0.1328
+        E 136 b0 0b 4b
+        ENV 5 2 0
+        E 8 90 2e 16
+        E 240 80 35 00
+        E 72 b0 01 1f
+        ENV 5 2 -0.0567
+        E 283 b0 0b 52
+        ENV 5 0 0
+        E 198 b0 01 31
+        ENV 5 2 0.1777
+        E 590 b0 0b 4b
+        ENV 5 0 0
+        E 56 b0 0b 55
+        ENV 5 0 0
+        E 1 90 33 7f
+        E 124 b0 02 3d
+        ENV 5 0 0
+        E 115 b0 01 33
+        ENV 5 0 -0
+        E 1 80 2e 00
+        E 0 90 32 7f
+        E 232 b0 0b 55
+        ENV 5 0 0
+        E 8 80 33 00
+        E 0 90 30 01
+        E 240 b0 0b 6c
+        ENV 5 0 0
+        E 0 b0 01 00
+        ENV 5 0 -0
+        E 0 80 32 00
+        E 1511 b0 0b 76
+        ENV 5 2 0.2109
+        E 409 b0 01 55
+        ENV 5 0 -0
+        E 927 b0 02 4c
+        ENV 5 0 0
+        E 222 b0 0b 68
+        ENV 5 2 -0.1172
+        E 57 b0 01 44
+        ENV 5 0 0
+        E 1513 b0 0b 6e
+        ENV 5 0 0
+        E 1830 b0 02 42
+        ENV 5 0 0
+        E 11 80 30 00
+        E 225 b0 01 63
+        ENV 5 0 0
+        e 734 b0 0b 60
+        ENV 5 0 0
+        E 0 b0 01 00
+        ENV 5 0 0
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {1C004A60-528B-45C3-8A20-303273822E2C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 4
+        VELLANE 11 151 0
+        CFGEDITVIEW 0 0.029653 72 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 127 0 1153 735 0 0 0 0 0 0 0 1 0 0.5 0 0 1 64
+      >
+    >
+  >
+>
