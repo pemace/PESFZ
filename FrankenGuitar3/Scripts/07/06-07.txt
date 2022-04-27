@@ -1,0 +1,70 @@
+//-------------------------------------------------------------------
+<region>
+sample=/06/07/sample-001.wav
+lokey=71
+hikey=72
+pitch_keycenter=71
+hirand=0.25
+seq_length=2 seq_position=1
+
+<region>
+sample=/06/07/sample-002.wav
+lokey=71
+hikey=72
+pitch_keycenter=71
+lorand=0.25
+hirand=0.5
+seq_length=2 seq_position=1
+
+<region>
+sample=/06/07/sample-003.wav
+lokey=71
+hikey=72
+pitch_keycenter=71
+lorand=0.5
+hirand=0.75
+seq_length=2 seq_position=1
+
+<region>
+sample=/06/07/sample-004.wav
+lokey=71
+hikey=72
+pitch_keycenter=71
+lorand=0.75
+seq_length=2 seq_position=1
+
+
+//-------------------------------------------------------------------
+<region>
+sample=/06/07/sample-005.wav
+lokey=71
+hikey=72
+pitch_keycenter=71
+hirand=0.25
+seq_length=2 seq_position=2
+
+<region>
+sample=/06/07/sample-006.wav
+lokey=71
+hikey=72
+pitch_keycenter=71
+lorand=0.25
+hirand=0.5
+seq_length=2 seq_position=2
+
+<region>
+sample=/06/07/sample-007.wav
+lokey=71
+hikey=72
+pitch_keycenter=71
+lorand=0.5
+hirand=0.75
+seq_length=2 seq_position=2
+
+<region>
+sample=/06/07/sample-008.wav
+lokey=71
+hikey=72
+pitch_keycenter=71
+lorand=0.75
+seq_length=2 seq_position=2

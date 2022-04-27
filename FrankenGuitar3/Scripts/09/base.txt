@@ -1,0 +1,52 @@
+<master>
+sw_last=34
+sw_label=9st position
+
+<group> //Begin Group 1
+group_label=s1E
+group=2
+polyphony=1
+#include "Scripts\09\01-00.txt"
+#include "Scripts\09\01-01.txt"
+#include "Scripts\09\01-03.txt"
+#include "Scripts\09\01-05.txt"
+#include "Scripts\09\01-07.txt"
+#include "Scripts\09\01-09.txt"
+#include "Scripts\09\01-12.txt"
+
+<group> //Begin Group 1
+group_label=s2A
+group=3
+polyphony=1
+#include "Scripts\09\02-09.txt"
+#include "Scripts\09\02-12.txt"
+
+<group> //Begin Group 1
+group_label=s3D
+group=4
+polyphony=1
+#include "Scripts\09\03-09.txt"
+#include "Scripts\09\03-12.txt"
+
+<group> //Begin Group 1
+group_label=s4G
+group=5
+polyphony=1
+#include "Scripts\09\04-09.txt"
+#include "Scripts\09\04-12.txt"
+
+<group> //Begin Group 1
+group_label=s5B
+group=6
+polyphony=1
+#include "Scripts\09\05-09.txt"
+#include "Scripts\09\05-12.txt"
+
+<group> //Begin Group 1
+group_label=s6E
+group=7
+polyphony=1
+#include "Scripts\09\06-09.txt"
+#include "Scripts\09\06-12.txt"
+#include "Scripts\09\06-14.txt"
+#include "Scripts\09\06-17.txt"

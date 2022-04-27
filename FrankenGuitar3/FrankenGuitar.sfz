@@ -28,9 +28,11 @@ lfo01_fade=0.2
 pitch_random=15
 
 sw_lokey=23 sw_hikey=36 sw_default=23
-
+#include "Scripts\0000\base.txt"
 #include "Scripts\000\base.txt"
 #include "Scripts\00\base.txt"
 #include "Scripts\01\base.txt"
 #include "Scripts\03\base.txt"
 #include "Scripts\05\base.txt"
+#include "Scripts\07\base.txt"
+#include "Scripts\09\base.txt"

@@ -1,0 +1,35 @@
+<group> //Begin Group 1
+group_label=s1E
+group=2
+polyphony=1
+#include "Scripts\00\01-00.txt"
+
+<group> //Begin Group 1
+group_label=s2A
+group=3
+polyphony=1
+#include "Scripts\00\02-00.txt"
+
+<group> //Begin Group 1
+group_label=s3D
+group=4
+polyphony=1
+#include "Scripts\00\03-00.txt"
+
+<group> //Begin Group 1
+group_label=s4G
+group=5
+polyphony=1
+#include "Scripts\00\04-00.txt"
+
+<group> //Begin Group 1
+group_label=s5B
+group=6
+polyphony=1
+#include "Scripts\00\05-00.txt"
+
+<group> //Begin Group 1
+group_label=s6E
+group=7
+polyphony=1
+#include "Scripts\00\06-00.txt"

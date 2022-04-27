@@ -1,0 +1,70 @@
+//-------------------------------------------------------------------
+<region>
+sample=/03/00/sample-001.wav
+lokey=98
+hikey=98
+pitch_keycenter=98
+hirand=0.25
+seq_length=2 seq_position=1
+
+<region>
+sample=/03/00/sample-002.wav
+lokey=98
+hikey=98
+pitch_keycenter=98
+lorand=0.25
+hirand=0.5
+seq_length=2 seq_position=1
+
+<region>
+sample=/03/00/sample-003.wav
+lokey=98
+hikey=98
+pitch_keycenter=98
+lorand=0.5
+hirand=0.75
+seq_length=2 seq_position=1
+
+<region>
+sample=/03/00/sample-004.wav
+lokey=98
+hikey=98
+pitch_keycenter=98
+lorand=0.75
+seq_length=2 seq_position=1
+
+
+//-------------------------------------------------------------------
+<region>
+sample=/03/00/sample-005.wav
+lokey=98
+hikey=98
+pitch_keycenter=98
+hirand=0.25
+seq_length=2 seq_position=2
+
+<region>
+sample=/03/00/sample-006.wav
+lokey=98
+hikey=98
+pitch_keycenter=98
+lorand=0.25
+hirand=0.5
+seq_length=2 seq_position=2
+
+<region>
+sample=/03/00/sample-007.wav
+lokey=98
+hikey=98
+pitch_keycenter=98
+lorand=0.5
+hirand=0.75
+seq_length=2 seq_position=2
+
+<region>
+sample=/03/00/sample-007.wav
+lokey=98
+hikey=98
+pitch_keycenter=98
+lorand=0.75
+seq_length=2 seq_position=2
