@@ -16,10 +16,10 @@ Guitare cassée puis réparée, certains cordes buzzent facilement
 ### FAIT
 - Instrument samplé, le sample fait 250 Mo environ
 - Position Easy, toutes les notes, pas de limitation de nombre de notes par corde
-- Positions 0, 1, 2, 3, 5, 7 et 9 avec 1 note par corde
+- Positions jusqu'à la position 9
 
 ### TODO
-- Programmer les positions restantes jusqu'à la position 12
+- Surveiller les éventuels bugs
 
 ## FrankenCello2
 Violoncelle cassé et réparé de façon artisanale, très difficile à jouer
