@@ -4,6 +4,9 @@ default_path=Samples\
 set_cc1=0
 set_cc2=63
 
+label_cc1=Vib.(1)
+label_cc2=Vib. speed(2)
+
 
 <global>
 volume=1
@@ -22,12 +25,11 @@ lfo01_freq_oncc2=8
 lfo01_delay=0.2
 lfo01_fade=0.2
 
-pitch_random=5
+pitch_random=15
 
-<master>
-group=1
-
-<group> //Begin Group 1
-group_label=gr_1
+sw_lokey=23 sw_hikey=36 sw_default=23
 
 #include "Scripts\000\base.txt"
+#include "Scripts\00\base.txt"
+#include "Scripts\01\base.txt"
+#include "Scripts\03\base.txt"

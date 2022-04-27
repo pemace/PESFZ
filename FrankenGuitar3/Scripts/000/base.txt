@@ -1,3 +1,10 @@
+<master>
+group=1
+sw_last=23
+sw_label=Easy
+
+<group> //Begin Group 1
+group_label=gr_1
 #include "Scripts\000\01-00.txt"
 #include "Scripts\000\01-01.txt"
 #include "Scripts\000\01-03.txt"
