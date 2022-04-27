@@ -16,7 +16,7 @@ Guitare cassée puis réparée, certains cordes buzzent facilement
 ### FAIT
 - Instrument samplé, le sample fait 250 Mo environ
 - Position Easy, toutes les notes, pas de limitation de nombre de notes par corde
-- Positions 0, 1, 2, 3 et 5 avec 1 note par corde
+- Positions 0, 1, 2, 3, 5, 7 et 9 avec 1 note par corde
 
 ### TODO
 - Programmer les positions restantes jusqu'à la position 12
