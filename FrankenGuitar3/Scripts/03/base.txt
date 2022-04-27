@@ -1,0 +1,56 @@
+<master>
+sw_last=28
+sw_label=3st position
+
+<group> //Begin Group 1
+group_label=s1E
+group=2
+polyphony=1
+#include "Scripts\03\01-00.txt"
+#include "Scripts\03\01-01.txt"
+#include "Scripts\03\01-03.txt"
+#include "Scripts\03\01-05.txt"
+#include "Scripts\03\01-07.txt"
+
+<group> //Begin Group 1
+group_label=s2A
+group=3
+polyphony=1
+#include "Scripts\03\02-03.txt"
+#include "Scripts\03\02-05.txt"
+#include "Scripts\03\02-07.txt"
+
+<group> //Begin Group 1
+group_label=s3D
+group=4
+polyphony=1
+#include "Scripts\03\03-03.txt"
+#include "Scripts\03\03-05.txt"
+#include "Scripts\03\03-07.txt"
+
+<group> //Begin Group 1
+group_label=s4G
+group=5
+polyphony=1
+#include "Scripts\03\04-03.txt"
+#include "Scripts\03\04-05.txt"
+
+<group> //Begin Group 1
+group_label=s5B
+group=6
+polyphony=1
+#include "Scripts\03\05-03.txt"
+#include "Scripts\03\05-05.txt"
+#include "Scripts\03\05-07.txt"
+
+<group> //Begin Group 1
+group_label=s6E
+group=7
+polyphony=1
+#include "Scripts\03\06-03.txt"
+#include "Scripts\03\06-05.txt"
+#include "Scripts\03\06-07.txt"
+#include "Scripts\03\06-09.txt"
+#include "Scripts\03\06-12.txt"
+#include "Scripts\03\06-14.txt"
+#include "Scripts\03\06-17.txt"

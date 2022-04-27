@@ -1,0 +1,70 @@
+//-------------------------------------------------------------------
+<region>
+sample=/corde/case/sample-001.wav
+lokey=min
+hikey=max
+pitch_keycenter=min
+hirand=0.25
+seq_length=2 seq_position=1
+
+<region>
+sample=/corde/case/sample-002.wav
+lokey=min
+hikey=max
+pitch_keycenter=min
+lorand=0.25
+hirand=0.5
+seq_length=2 seq_position=1
+
+<region>
+sample=/corde/case/sample-003.wav
+lokey=min
+hikey=max
+pitch_keycenter=min
+lorand=0.5
+hirand=0.75
+seq_length=2 seq_position=1
+
+<region>
+sample=/corde/case/sample-004.wav
+lokey=min
+hikey=max
+pitch_keycenter=min
+lorand=0.75
+seq_length=2 seq_position=1
+
+
+//-------------------------------------------------------------------
+<region>
+sample=/corde/case/sample-005.wav
+lokey=min
+hikey=max
+pitch_keycenter=min
+hirand=0.25
+seq_length=2 seq_position=2
+
+<region>
+sample=/corde/case/sample-006.wav
+lokey=min
+hikey=max
+pitch_keycenter=min
+lorand=0.25
+hirand=0.5
+seq_length=2 seq_position=2
+
+<region>
+sample=/corde/case/sample-007.wav
+lokey=min
+hikey=max
+pitch_keycenter=min
+lorand=0.5
+hirand=0.75
+seq_length=2 seq_position=2
+
+<region>
+sample=/corde/case/sample-008.wav
+lokey=min
+hikey=max
+pitch_keycenter=min
+lorand=0.75
+seq_length=2 seq_position=2
