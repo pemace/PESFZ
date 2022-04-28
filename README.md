@@ -21,13 +21,20 @@ Guitare cassée puis réparée, certains cordes buzzent facilement
 ### TODO
 - Surveiller les éventuels bugs
 
-## FrankenCello2
+## FrankenCello2.1
 Violoncelle cassé et réparé de façon artisanale, très difficile à jouer
 
 ### FAIT
 - Instrument samplé
-- Legato changement de corde, pas de legato aux doigts
+- Legato amélioré
 - Vibrato algorithmique
 
 ### TODO
 - Réenregistrer l'instrument de façon à introduire le legato aux doigts
+
+## FL Cello Grl
+Violoncelle fait à partir des samples de Flcellogrl ( https://freesound.org/people/flcellogrl/packs/12408/ )
+
+### FAIT
+- Legato amélioré
+- Vibrato samplé
