@@ -32,7 +32,7 @@ Violoncelle cassé et réparé de façon artisanale, très difficile à jouer
 ### TODO
 - Réenregistrer l'instrument de façon à introduire le legato aux doigts
 
-## FL Cello Grl
+## FL Cello Girl
 Violoncelle fait à partir des samples de Flcellogrl ( https://freesound.org/people/flcellogrl/packs/12408/ )
 
 ### FAIT
