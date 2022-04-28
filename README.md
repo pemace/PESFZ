@@ -39,8 +39,16 @@ Violoncelle fait à partir des samples de Flcellogrl ( https://freesound.org/peo
 - Legato amélioré
 - Vibrato samplé
 
+## MTGSimpleCello
+Violoncelle enregistré par la MTG ( https://freesound.org/people/MTG/packs/20236/ )
+
+### FAIT
+- Legato simple
+- Vibrato algorithmique
+
+
 ## MTGSimpleSax
-Saxophone ténor enregistré par MTG ( https://freesound.org/people/MTG/packs/20247/ )
+Saxophone ténor enregistré par la MTG ( https://freesound.org/people/MTG/packs/20247/ )
 
 ### FAIT
 - Legato simple
