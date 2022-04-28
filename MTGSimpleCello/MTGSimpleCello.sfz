@@ -10,7 +10,7 @@ label_cc2=Vib. speed(2)
 label_cc11=Volume(11)
 
 <global>
-ampeg_release=0.14
+ampeg_release=0.15
 off_time=0
 ampeg_release_shape=15
 ampeg_attack_shape=-20
