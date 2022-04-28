@@ -21,12 +21,12 @@ Guitare cassée puis réparée, certains cordes buzzent facilement
 ### TODO
 - Surveiller les éventuels bugs
 
-## FrankenCello2
+## FrankenCello2.1
 Violoncelle cassé et réparé de façon artisanale, très difficile à jouer
 
 ### FAIT
 - Instrument samplé
-- Legato changement de corde, pas de legato aux doigts
+- Legato amélioré
 - Vibrato algorithmique
 
 ### TODO
