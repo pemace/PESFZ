@@ -6,9 +6,8 @@ set_cc11=80
 label_cc11=Expression(11)
 
 <global>
-ampeg_release=0.12
-delay=0.075
-off_time=0.02
+ampeg_release=0.23
+off_time=0
 ampeg_release_shape=15
 ampeg_attack_shape=1
 
@@ -16,29 +15,33 @@ ampeg_dynamic=1
 volume=1
 off_mode=normal
 
-amp_veltrack=0
-amplitude_oncc11=100
-
 pitch_random=10
 
 <master>trigger=first
 group=1
 off_by=2
-ampeg_attack=0.1
+ampeg_attack=0.15
 ampeg_attackcc21=-0.3
+amp_veltrack=0
+amplitude_oncc11=100
+delay=0.063
+ampeg_delay=0
 
 <group> //Begin Group 1
 group_label=gr_1
 #include "notes.txt"
 
-
 <master>trigger=legato
-ampeg_attack=0.05
-ampeg_attack_shape=20
 group=2
 off_by=2
+ampeg_attack=0.2
+ampeg_attack_shape=20
+amp_veltrack=0
+amplitude_oncc11=100
+delay=0
+delay=0.031
+ampeg_delay=0.031
 
 <group> //Begin Group 1
 group_label=gr_2
-
 #include "notes.txt"
