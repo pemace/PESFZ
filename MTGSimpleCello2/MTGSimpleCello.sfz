@@ -1,0 +1,67 @@
+<control>
+default_path=Samples\
+
+set_cc11=80
+set_cc1=0
+set_cc2=50
+
+label_cc1=Vib. int.(1)
+label_cc2=Vib. speed(2)
+label_cc11=Volume(11)
+
+<global>
+sw_lokey=72 sw_hikey=74 sw_default=72
+
+ampeg_release=0.2
+off_time=0.11
+off_shape=-10
+ampeg_release_shape=15
+ampeg_attack_shape=15
+
+ampeg_dynamic=1
+volume=1
+off_mode=normal
+
+lfo01_pitch_oncc1=35
+lfo01_freq=2
+lfo01_freq_oncc2=8
+lfo01_delay=0.3
+lfo01_fade=0.1
+
+pitch_random=10
+
+<master>trigger=first
+group=1
+off_by=2
+ampeg_attack=0.2
+amp_veltrack=0
+amplitude_oncc11=100
+
+<group> //Begin Group 1
+group_label=gr_1
+#include "notes.txt"
+
+<master>trigger=legato
+group=2
+off_by=2
+ampeg_attack=0.1
+ampeg_attack_shape=20
+amp_veltrack=0
+amplitude_oncc11=100
+
+<group> //Begin Group 1
+group_label=gr_2
+sw_last=72
+sw_label=Bow
+#include "notes.txt"
+
+<group> //Begin Group 1
+group_label=Slur
+sw_last=74
+sw_label=Slur
+offset=360
+eg07_sustain=1
+eg07_level0=-1 eg07_time0=0
+eg07_level1=0 eg07_time1=0.1
+eg07_pitch_oncc140=100
+#include "notes.txt"
