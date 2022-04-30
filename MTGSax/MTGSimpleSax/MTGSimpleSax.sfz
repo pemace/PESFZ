@@ -11,7 +11,7 @@ label_cc11=Volume(11)
 
 <global>
 ampeg_release=0.23
-off_time=0.08
+off_time=0.05
 ampeg_release_shape=16
 ampeg_attack_shape=1
 
